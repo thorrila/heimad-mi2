@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello World!!
 Hallo Welt!?
 Halló heimur!?
